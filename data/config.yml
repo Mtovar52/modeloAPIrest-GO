@@ -1,0 +1,12 @@
+domain:
+  google: "https://google.com"
+  grpcCategory : "localhost:3001"
+  grpcAuth : "localhost:3002"
+  grpcBusiness : "localhost:3003"
+  grpcNotification : "localhost:3004"
+
+server:
+  port: "3000"
+  secret: "inuyasha2023"
+  #release | debug
+  mode: "release"

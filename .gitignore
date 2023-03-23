@@ -1,0 +1,8 @@
+.vscode/*
+MANIFEST
+000000.vlog
+__debug_bin.exe
+key.json
+cmd/config/deleteCahce.go
+cmd/data/cache/LOCK
+
